@@ -30,3 +30,13 @@ header{
     text-decoration: none;
     letter-spacing: .1rem;
 }
+
+@media (max-width: 768px) {
+    .logo img{
+        width: 25rem;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+
+}
